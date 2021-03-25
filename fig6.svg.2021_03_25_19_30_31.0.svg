@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
-   sodipodi:docname="fig6.svg"
+   sodipodi:docname="fig6.svg.2021_03_25_19_30_31.0.svg"
    id="svg9188"
    viewBox="0 0 521.57479 481.88975"
    height="17cm"
@@ -29,6 +29,30 @@
   </metadata>
   <defs
      id="defs9192">
+    <rect
+       x="84.915003"
+       y="52.753549"
+       width="20.384527"
+       height="13.599994"
+       id="rect6106" />
+    <rect
+       x="48.652248"
+       y="39.803703"
+       width="43.811854"
+       height="24.199523"
+       id="rect6100" />
+    <rect
+       x="100.82207"
+       y="19.51648"
+       width="75.245465"
+       height="21.251465"
+       id="rect6719" />
+    <rect
+       x="174.53444"
+       y="163.03086"
+       width="66.16727"
+       height="18.670419"
+       id="rect6713" />
     <rect
        x="8.8493015"
        y="6.1484856"
@@ -4518,6 +4542,18 @@
        width="72.87149"
        height="55.208607"
        id="rect6327" />
+    <rect
+       x="84.915001"
+       y="52.753548"
+       width="20.384527"
+       height="13.599994"
+       id="rect6106-5" />
+    <rect
+       x="84.915001"
+       y="52.753548"
+       width="20.384527"
+       height="13.599994"
+       id="rect6119" />
   </defs>
   <sodipodi:namedview
      units="cm"
@@ -4526,9 +4562,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="28"
      inkscape:window-x="56"
-     inkscape:cy="198.17675"
-     inkscape:cx="193.11084"
-     inkscape:zoom="3.5124616"
+     inkscape:cy="330.2521"
+     inkscape:cx="193.98678"
+     inkscape:zoom="1.2418427"
      showgrid="false"
      id="namedview9190"
      inkscape:window-height="1384"
@@ -26591,8 +26627,54 @@
        clip-path="url(#clip85-6)"
        id="g14685" />
   </g>
+  <text
+     id="text4526-7"
+     style="font-style:normal;font-weight:normal;font-size:6px;font-family:SansSerif;color-interpolation:linearRGB;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+     y="135.55913"
+     xml:space="preserve"
+     x="183.72104" />
+  <text
+     xml:space="preserve"
+     id="text6053"
+     style="font-size:30px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect6055);font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" />
+  <text
+     xml:space="preserve"
+     id="text6059"
+     style="font-size:9px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect6061);"><tspan
+       x="8.8496094"
+       y="14.255227"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">A</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text6059-9"
+     style="font-size:9px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect6061-6);"
+     transform="translate(274.5127,-1.4962208)"><tspan
+       x="8.8496094"
+       y="14.255227"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">C</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text6059-9-2"
+     style="font-size:9px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect6061-6-3);"
+     transform="translate(276.21358,190.47527)"><tspan
+       x="8.8496094"
+       y="14.255227"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">D</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text6059-9-2-2"
+     style="font-size:9px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect6061-6-3-7);"
+     transform="translate(-0.06811523,190.47527)"><tspan
+       x="8.8496094"
+       y="14.255227"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">B</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text6098"
+     style="line-height:1.25;font-family:sans-serif;font-size:5.99999982px;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect6100);" />
   <g
-     id="g6258">
+     id="g6362"
+     transform="matrix(0.91463864,0,0,0.91463864,12.197591,8.8134114)">
     <g
        transform="matrix(0.25343366,0,0,0.25179855,-48.178549,74.313178)"
        clip-path="url(#clip1-6)"
@@ -26651,7 +26733,7 @@
       </g>
     </g>
     <rect
-       style="stroke-width:0.75;stroke-miterlimit:8;stroke-dasharray:none"
+       style="stroke:none;stroke-width:0.75;stroke-miterlimit:8;stroke-dasharray:none"
        x="91.306206"
        y="16.812181"
        width="102.0127"
@@ -27655,123 +27737,146 @@
        id="path16581-2"
        d="m 169.44477,52.612724 18.21277,27.551449 0.56007,-0.495649 -18.21277,-27.551451 z m 17.43851,27.72309 2.12524,1.20061 -0.44502,-2.687561 z"
        style="stroke-width:0.749999" />
-  </g>
-  <text
-     id="text4526-7"
-     style="font-style:normal;font-weight:normal;font-size:6px;font-family:SansSerif;color-interpolation:linearRGB;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-     y="135.55913"
-     xml:space="preserve"
-     x="183.72104" />
-  <text
-     xml:space="preserve"
-     id="text6053"
-     style="font-size:30px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect6055);font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" />
-  <text
-     xml:space="preserve"
-     id="text6059"
-     style="font-size:9px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect6061);"><tspan
-       x="8.8496094"
-       y="14.255227"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">A</tspan></tspan></text>
-  <text
-     xml:space="preserve"
-     id="text6059-9"
-     style="font-size:9px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect6061-6);"
-     transform="translate(274.5127,-1.4962208)"><tspan
-       x="8.8496094"
-       y="14.255227"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">C</tspan></tspan></text>
-  <text
-     xml:space="preserve"
-     id="text6059-9-2"
-     style="font-size:9px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect6061-6-3);"
-     transform="translate(276.21358,190.47527)"><tspan
-       x="8.8496094"
-       y="14.255227"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">D</tspan></tspan></text>
-  <text
-     xml:space="preserve"
-     id="text6059-9-2-2"
-     style="font-size:9px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect6061-6-3-7);"
-     transform="translate(-0.06811523,190.47527)"><tspan
-       x="8.8496094"
-       y="14.255227"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">B</tspan></tspan></text>
-  <g
-     id="g6360">
-    <text
-       xml:space="preserve"
-       style="font-size:8px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.75"
-       x="60.805134"
-       y="136.54448"
-       id="text6349"><tspan
-         sodipodi:role="line"
-         id="tspan6347"
+    <g
+       id="g6360">
+      <text
+         xml:space="preserve"
+         style="font-size:8px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.75"
          x="60.805134"
          y="136.54448"
-         style="font-size:8px;stroke-width:0.75">P(     ) = ?</tspan></text>
-  </g>
-  <g
-     id="g6360-7"
-     transform="translate(128.45367,-7.4973724)">
-    <text
-       xml:space="preserve"
-       style="font-size:8px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.75"
-       x="59.58107"
-       y="136.88957"
-       id="text6349-1"><tspan
-         sodipodi:role="line"
-         id="tspan6347-3"
+         id="text6349"><tspan
+           sodipodi:role="line"
+           id="tspan6347"
+           x="60.805134"
+           y="136.54448"
+           style="font-size:8px;stroke-width:0.75">P(     ) = ?</tspan></text>
+    </g>
+    <g
+       id="g6360-7"
+       transform="translate(128.45367,-7.4973724)">
+      <text
+         xml:space="preserve"
+         style="font-size:8px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.75"
          x="59.58107"
          y="136.88957"
-         style="font-size:8px;stroke-width:0.75">P(      ) = ?</tspan></text>
-  </g>
-  <g
-     id="g6360-7-0"
-     transform="translate(128.87881,6.1116026)">
-    <text
-       xml:space="preserve"
-       style="font-size:8px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.75"
-       x="59.58107"
-       y="136.88957"
-       id="text6349-1-6"><tspan
-         sodipodi:role="line"
-         id="tspan6347-3-8"
+         id="text6349-1"><tspan
+           sodipodi:role="line"
+           id="tspan6347-3"
+           x="59.58107"
+           y="136.88957"
+           style="font-size:8px;stroke-width:0.75">P(      ) = ?</tspan></text>
+    </g>
+    <g
+       id="g6360-7-0"
+       transform="translate(128.87881,6.1116026)">
+      <text
+         xml:space="preserve"
+         style="font-size:8px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.75"
          x="59.58107"
          y="136.88957"
-         style="font-size:8px;stroke-width:0.75">P(      ) = ?</tspan></text>
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
-     x="20.407009"
-     y="124.36456"
-     id="text6406"><tspan
-       sodipodi:role="line"
-       id="tspan6404"
+         id="text6349-1-6"><tspan
+           sodipodi:role="line"
+           id="tspan6347-3-8"
+           x="59.58107"
+           y="136.88957"
+           style="font-size:8px;stroke-width:0.75">P(      ) = ?</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
        x="20.407009"
        y="124.36456"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Decision </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
-     x="152.15811"
-     y="124.36456"
-     id="text6406-4"><tspan
-       sodipodi:role="line"
-       id="tspan6404-1"
+       id="text6406"><tspan
+         sodipodi:role="line"
+         id="tspan6404"
+         x="20.407009"
+         y="124.36456"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Decision </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
        x="152.15811"
        y="124.36456"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Decision </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
-     x="20.118387"
-     y="159.09453"
-     id="text6406-2"><tspan
-       sodipodi:role="line"
-       id="tspan6404-7"
+       id="text6406-4"><tspan
+         sodipodi:role="line"
+         id="tspan6404-1"
+         x="152.15811"
+         y="124.36456"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Decision </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
        x="20.118387"
        y="159.09453"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Cognitive properties </tspan></text>
+       id="text6406-2"><tspan
+         sodipodi:role="line"
+         id="tspan6404-7"
+         x="20.118387"
+         y="159.09453"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Cognitive properties </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="152.59857"
+       y="158.50821"
+       id="text6406-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan6404-7-0"
+         x="152.59857"
+         y="158.50821"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Cognitive properties </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="55.146156"
+       y="169.08406"
+       id="text6406-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan6404-7-4"
+         x="55.146156"
+         y="169.08406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Memory (-)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="55.178722"
+       y="176.53694"
+       id="text6406-2-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan6404-7-4-3"
+         x="55.178722"
+         y="176.53694"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Value-based (-)</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text6711"
+       style="font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect6713);"
+       transform="translate(10.034445,1.2781292)"><tspan
+         x="174.53516"
+         y="168.33984"><tspan>Memory (+)
+</tspan></tspan><tspan
+         x="174.53516"
+         y="175.83984"><tspan>Value-based (+)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text6717"
+       style="font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect6719);"
+       transform="translate(7.9365161,9.645202)"><tspan
+         x="100.82227"
+         y="24.824219"><tspan>Is information explicit?</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text6104"
+       style="font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect6106);"
+       transform="translate(6.7364139,10.729886)"><tspan
+         x="84.914062"
+         y="58.0625"><tspan>Yes</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text6104-0"
+       style="font-size:6px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect6106-5);"
+       transform="translate(99.267438,10.729886)"><tspan
+         x="84.914062"
+         y="58.0625"><tspan>No</tspan></tspan></text>
+  </g>
 </svg>
