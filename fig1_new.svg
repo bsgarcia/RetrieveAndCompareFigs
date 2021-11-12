@@ -13,7 +13,7 @@
    height="698.148pt"
    viewBox="0 0 521.57479 698.148"
    id="svg2986"
-   sodipodi:docname="fig1.svg"
+   sodipodi:docname="fig1_new.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata2992">
@@ -1807,11 +1807,10 @@
          font-size="9"
          font-weight="bold"
          id="text779"
-         font-family="DejaVuSans"
-         transform="matrix(1 0 0 1 0 0)"><tspan
+         style="font-weight:bold;font-size:9px;font-family:DejaVuSans"><tspan
            y="19.350323"
-           x="299.93583 306.08283 311.88783 318.3228 324.4248 328.86183 331.93983 338.0418 344.4678 349.7958 355.8978 359.63279 367.10279 373.20478 378.55979 383.8878 388.3518 391.4298 397.8648 402.19383 405.27183 411.45484 417.85383 420.9858 425.09883 431.24583 438.71583 442.82884 445.96083 449.7228 452.8548 459.1098 465.3648 468.4968 472.7988 477.2358 480.3138 486.37983 489.45783 494.83985"
-           id="tspan777">Experience-Description (ED) - 88 trials </tspan></text>
+           x="299.93582"
+           id="tspan777">Experiential-Symbolic (ED) - 88 trials </tspan></text>
       <clipPath
          id="cp141">
         <path
@@ -4146,24 +4145,6 @@
            y="326.53693"
            x="482.76962 486.65466"
            id="tspan1765">0%</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="rotate(-90)"
-         font-size="9"
-         id="text1777"
-         style="font-size:9px;font-family:DejaVuSans"><tspan
-           y="38.847424"
-           x="-245.07892 -239.39992 -234.08092 -228.37493 -222.83992 -219.14092 -216.64792 -211.11292 -205.41591 -200.44792 -194.91292"
-           id="tspan1769">Experience </tspan><tspan
-           y="50.097424"
-           x="-245.07892 -242.22592 -238.71593 -234.03592 -228.71692 -219.95092 -214.24492 -208.74593 -206.25293 -201.57294"
-           id="tspan1771"> (symbols)</tspan><tspan
-           y="39.190198"
-           x="-334.74754 -327.81755 -322.28254 -317.60255 -312.66154 -308.96253 -306.4695 -300.76353 -297.2355 -294.7425 -289.2435"
-           id="tspan1773">Description</tspan><tspan
-           y="50.440198"
-           x="-334.74754 -331.89454 -328.38453 -325.8915 -320.39253 -316.8645 -313.3365 -307.80149 -304.10249 -301.60948 -296.07447 -291.39448"
-           id="tspan1775"> (lotteries)</tspan></text>
       <path
          d="M 150.367,550.875 H 494.262 V 669.93 H 150.367 Z"
          id="path1779"
@@ -6671,7 +6652,7 @@
          style="font-size:6.5999999px;font-family:DejaVuSans;fill:#262626"><tspan
            id="tspan2826"
            y="521.61823"
-           x="369.96729">E-option pwin(</tspan></text>
+           x="369.96729">S-option pwin(%)</tspan></text>
       <path
          d="M 348.969,498.992 V 422.055"
          id="path2830"
