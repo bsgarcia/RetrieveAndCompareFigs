@@ -13,7 +13,10 @@
    viewBox="0 0 521.57479 566.9291"
    id="svg3566"
    sodipodi:docname="fig2_new.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/getz/MATLAB/RetrieveAndCompareFigs/fig2_new.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <metadata
      id="metadata3572">
     <rdf:RDF>
@@ -22,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4710,9 +4713,9 @@
      id="namedview3568"
      showgrid="false"
      units="cm"
-     inkscape:zoom="0.8464781"
-     inkscape:cx="284.07698"
-     inkscape:cy="430.63953"
+     inkscape:zoom="1.6929562"
+     inkscape:cx="357.18962"
+     inkscape:cy="600.8687"
      inkscape:window-x="56"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -4880,7 +4883,7 @@
        y="551.66345"
        x="323.38449"
        id="tspan6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Experience-Symbolic (ES)</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Experiential-Symbolic (ES)</tspan></text>
   <path
      d="m 229.01966,545.59451 h 11.04299 v 6.949 h -11.04299 z"
      id="path10"
@@ -4936,16 +4939,6 @@
        id="tspan2964-3-4"
        x="-0.23916972"
        y="301.63089" /></text>
-  <path
-     d="m 22.683669,418.64851 h 94.500011 v 92.25 H 22.683669 Z"
-     id="path874-9"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff" />
-  <path
-     d="m 270.18366,418.64851 h 94.5 v 92.25 h -94.5 z"
-     id="path1334-4"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff" />
   <path
      d="m 415.65101,422.44728 h 22.76963"
      id="path3986"
@@ -5200,11 +5193,6 @@
       <g
          id="g102399"
          style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
-        <path
-           id="path102395"
-           d="M 103,134 H 227 V 12 H 103 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
         <path
            id="path102397"
            style="fill:#c4dff0;stroke:none"
@@ -7773,11 +7761,6 @@
          id="g103177"
          style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
         <path
-           id="path103173"
-           d="M 267,134 H 391 V 12 H 267 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
            id="path103175"
            style="fill:#c4dff0;stroke:none"
            d="m 283.1739,68.8609 h 10.7826 V 58.771 h -10.7826 z"
@@ -10193,11 +10176,6 @@
       <g
          id="g103911"
          style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
-        <path
-           id="path103907"
-           d="M 430,134 H 554 V 12 H 430 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
         <path
            id="path103909"
            style="fill:#c4dff0;stroke:none"
@@ -12951,11 +12929,6 @@
          id="g104741"
          style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
         <path
-           id="path104737"
-           d="M 593,134 H 718 V 12 H 593 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
            id="path104739"
            style="fill:#c4dff0;stroke:none"
            d="m 609.3043,58.7489 h 10.8696 V 47.6122 h -10.8696 z"
@@ -14692,13 +14665,7 @@
        id="g9983" />
     <g
        style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed"
-       id="g9989">
-      <path
-         inkscape:connector-curvature="0"
-         style="stroke:none"
-         d="M 103,134 H 227 V 12 H 103 Z"
-         id="path9987" />
-    </g>
+       id="g9989" />
     <g
        style="color-interpolation:linearRGB;fill:#262626;stroke:#262626;stroke-width:0.65969998;stroke-linejoin:round;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision"
        id="g10005">
@@ -15210,13 +15177,7 @@
     </g>
     <g
        style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed"
-       id="g10181">
-      <path
-         inkscape:connector-curvature="0"
-         style="stroke:none"
-         d="M 267,134 H 391 V 12 H 267 Z"
-         id="path10179" />
-    </g>
+       id="g10181" />
     <g
        style="color-interpolation:linearRGB;fill:#262626;stroke:#262626;stroke-width:0.65969998;stroke-linejoin:round;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision"
        id="g10197">
@@ -15717,13 +15678,7 @@
     </g>
     <g
        style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed"
-       id="g10369">
-      <path
-         inkscape:connector-curvature="0"
-         style="stroke:none"
-         d="M 430,134 H 554 V 12 H 430 Z"
-         id="path10367" />
-    </g>
+       id="g10369" />
     <g
        style="color-interpolation:linearRGB;fill:#262626;stroke:#262626;stroke-width:0.65969998;stroke-linejoin:round;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision"
        id="g10385">
@@ -16224,13 +16179,7 @@
     </g>
     <g
        style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed"
-       id="g10557">
-      <path
-         inkscape:connector-curvature="0"
-         style="stroke:none"
-         d="M 593,134 H 718 V 12 H 593 Z"
-         id="path10555" />
-    </g>
+       id="g10557" />
     <g
        style="color-interpolation:linearRGB;fill:#262626;stroke:#262626;stroke-width:0.65969998;stroke-linejoin:round;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision"
        id="g10573">
@@ -16788,13 +16737,7 @@
          style="fill:#ffffff;stroke:#ffffff" />
       <g
          id="g15070"
-         style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
-        <path
-           id="path15068"
-           d="M 103,134 H 227 V 12 H 103 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
+         style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed" />
       <g
          id="g15090"
          style="color-interpolation:linearRGB;fill:#262626;stroke:#262626;stroke-width:0.65969998;stroke-linejoin:round;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision">
@@ -18289,13 +18232,7 @@
       </g>
       <g
          id="g15684"
-         style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
-        <path
-           id="path15682"
-           d="M 267,134 H 391 V 12 H 267 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
+         style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed" />
       <g
          id="g15704"
          style="color-interpolation:linearRGB;fill:#262626;stroke:#262626;stroke-width:0.65969998;stroke-linejoin:round;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision">
@@ -19779,13 +19716,7 @@
       </g>
       <g
          id="g16294"
-         style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
-        <path
-           id="path16292"
-           d="M 430,134 H 554 V 12 H 430 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
+         style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed" />
       <g
          id="g16314"
          style="color-interpolation:linearRGB;fill:#262626;stroke:#262626;stroke-width:0.65969998;stroke-linejoin:round;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision">
@@ -21269,13 +21200,7 @@
       </g>
       <g
          id="g16904"
-         style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
-        <path
-           id="path16902"
-           d="M 593,134 H 718 V 12 H 593 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
+         style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed" />
       <g
          id="g16916"
          style="color-interpolation:linearRGB;fill:#262626;stroke:#262626;stroke-width:0.65969998;stroke-linejoin:round;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision">
@@ -22266,11 +22191,6 @@
       <g
          id="g31051"
          style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
-        <path
-           id="path31045"
-           d="M 103,142 H 227 V 12 H 103 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
         <path
            id="path31047"
            style="fill:#b3d5eb;stroke:none"
@@ -27474,11 +27394,6 @@
          id="g33023"
          style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
         <path
-           id="path33017"
-           d="M 267,142 H 391 V 12 H 267 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
            id="path33019"
            style="fill:#b3d5eb;stroke:none"
            d="m 298.6831,88.6389 0.0403,-1.0951 0.0509,-1.095 0.0655,-1.0951 0.0834,-1.0951 0.1039,-1.0951 0.1259,-1.095 0.1487,-1.0951 0.1719,-1.0951 0.1953,-1.095 0.2189,-1.0951 0.2439,-1.0951 0.2718,-1.095 0.3052,-1.0951 0.3468,-1.0951 0.3981,-1.0951 0.4594,-1.095 0.5278,-1.0951 0.5968,-1.0951 0.6573,-1.095 0.6992,-1.0951 0.7127,-1.0951 0.6928,-1.0951 0.6396,-1.095 0.5606,-1.0951 0.4679,-1.0951 0.3765,-1.095 0.2997,-1.0951 0.2458,-1.0951 0.2162,-1.095 0.2058,-1.0951 0.204,-1.0951 0.1992,-1.0951 0.1811,-1.095 0.1431,-1.0951 0.0831,-1.0951 0.003,-1.095 -0.0934,-1.0951 -0.199,-1.0951 -0.3072,-1.095 -0.4098,-1.0951 -0.4991,-1.0951 -0.5672,-1.0951 -0.6089,-1.095 -0.6214,-1.0951 -0.6064,-1.0951 -0.5696,-1.095 -0.5199,-1.0951 -0.4661,-1.0951 -0.4165,-1.095 -0.3756,-1.0951 -0.3445,-1.0951 -0.3215,-1.0951 -0.303,-1.095 -0.286,-1.0951 -0.2688,-1.0951 -0.2512,-1.095 -0.2346,-1.0951 -0.2207,-1.0951 -0.2106,-1.0951 -0.2052,-1.095 -0.2036,-1.0951 -0.205,-1.0951 -0.2079,-1.095 -0.2108,-1.0951 -0.2127,-1.0951 -0.2123,-1.4356 H 298 v 76.241 h 0.5775 l 0.0372,-1.4357 0.0338,-1.095 z"
@@ -32396,11 +32311,6 @@
       <g
          id="g34887"
          style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
-        <path
-           id="path34881"
-           d="M 430,142 H 554 V 12 H 430 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
         <path
            id="path34883"
            style="fill:#b3d5eb;stroke:none"
@@ -38075,11 +37985,6 @@
       <g
          id="g37039"
          style="color-interpolation:sRGB;fill:#ffffff;stroke:#ffffff;color-rendering:optimizeSpeed;image-rendering:optimizeSpeed;shape-rendering:crispEdges;text-rendering:optimizeSpeed">
-        <path
-           id="path37033"
-           d="M 593,142 H 718 V 12 H 593 Z"
-           style="stroke:none"
-           inkscape:connector-curvature="0" />
         <path
            id="path37035"
            style="fill:#b3d5eb;stroke:none"
