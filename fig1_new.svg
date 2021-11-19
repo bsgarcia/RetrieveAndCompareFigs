@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="521.57479pt"
    height="698.148pt"
    viewBox="0 0 521.57479 698.148"
    id="svg2986"
    sodipodi:docname="fig1_new.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata2992">
     <rdf:RDF>
@@ -23,12 +23,25 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs2990" />
+     id="defs2990">
+    <rect
+       x="-170.59266"
+       y="251.45162"
+       width="147.91271"
+       height="65.081595"
+       id="rect3444" />
+    <rect
+       x="-170.59267"
+       y="251.45161"
+       width="147.9127"
+       height="65.081596"
+       id="rect3444-4" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,17 +51,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2504"
-     inkscape:window-height="1384"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview2988"
      showgrid="false"
-     inkscape:zoom="1.0141116"
-     inkscape:cx="728.66573"
-     inkscape:cy="432.75462"
-     inkscape:window-x="56"
-     inkscape:window-y="28"
+     inkscape:zoom="0.6745016"
+     inkscape:cx="-91.178435"
+     inkscape:cy="361.0073"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2982" />
+     inkscape:current-layer="g2982"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt" />
   <g
      id="g2984"
      style="enable-background:new">
@@ -2805,7 +2820,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1201"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.25949"
            x="63.394333 67.279335"
            id="tspan1199">0%</tspan></text>
@@ -2815,7 +2830,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1205"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.25949"
            x="76.151695 80.036697 83.921692 87.81369"
            id="tspan1203">100%</tspan></text>
@@ -2929,7 +2944,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1249"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="238.94963"
            x="73.660683 77.545685 81.430679"
            id="tspan1247">40%</tspan></text>
@@ -2939,7 +2954,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1253"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="238.94963"
            x="91.005074 94.890068 98.77507"
            id="tspan1251">60%</tspan></text>
@@ -2949,7 +2964,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1257"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="238.94963"
            x="122.70189 126.58688 130.47189"
            id="tspan1255">60%</tspan></text>
@@ -2959,7 +2974,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1261"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="238.94963"
            x="140.04626 143.93127 147.81627"
            id="tspan1259">40%</tspan></text>
@@ -3037,7 +3052,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1291"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="239.14534"
            x="183.11899 187.00398 190.88898"
            id="tspan1289">30%</tspan></text>
@@ -3047,7 +3062,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1295"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="239.14534"
            x="200.46338 204.34837 208.23337"
            id="tspan1293">70%</tspan></text>
@@ -3057,7 +3072,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1299"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="239.14023"
            x="232.41504 236.30003 240.18503"
            id="tspan1297">70%</tspan></text>
@@ -3067,7 +3082,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1303"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="239.14023"
            x="249.75945 253.64445 257.52945"
            id="tspan1301">30%</tspan></text>
@@ -3144,7 +3159,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1333"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="239.17355"
            x="292.61133 296.49634 300.38135"
            id="tspan1331">20%</tspan></text>
@@ -3154,7 +3169,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1337"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="239.17355"
            x="309.95572 313.84073 317.72574"
            id="tspan1335">80%</tspan></text>
@@ -3164,7 +3179,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1341"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="239.76114"
            x="342.04443 345.92944 349.81445"
            id="tspan1339">80%</tspan></text>
@@ -3174,7 +3189,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1345"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="239.76114"
            x="359.38882 363.27383 367.15884"
            id="tspan1343">20%</tspan></text>
@@ -3184,7 +3199,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1349"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.25949"
            x="102.02098 105.90598 109.79097"
            id="tspan1347">10%</tspan></text>
@@ -3194,7 +3209,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1353"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.25949"
            x="117.83636 121.72136 125.60635"
            id="tspan1351">90%</tspan></text>
@@ -3931,7 +3946,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1683"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="239.75578"
            x="402.30383 406.18884 410.07385"
            id="tspan1681">10%</tspan></text>
@@ -3941,7 +3956,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1687"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="239.75578"
            x="419.64825 423.53326 427.41827"
            id="tspan1685">90%</tspan></text>
@@ -3951,7 +3966,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1691"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="239.75578"
            x="451.41992 455.30493 459.18994"
            id="tspan1689">90%</tspan></text>
@@ -3961,7 +3976,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1695"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="239.75578"
            x="468.76431 472.64932 476.53433"
            id="tspan1693">10%</tspan></text>
@@ -3971,7 +3986,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1699"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.25949"
            x="142.42747 146.31247 150.19746"
            id="tspan1697">20%</tspan></text>
@@ -3981,7 +3996,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1703"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.25949"
            x="158.24286 162.12785 166.01285"
            id="tspan1701">80%</tspan></text>
@@ -3991,7 +4006,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1707"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.25949"
            x="182.58026 186.46526 190.35025"
            id="tspan1705">30%</tspan></text>
@@ -4001,7 +4016,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1711"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.25949"
            x="198.39563 202.28062 206.16562"
            id="tspan1709">70%</tspan></text>
@@ -4011,7 +4026,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1715"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.25949"
            x="222.5666 226.4516 230.33659"
            id="tspan1713">40%</tspan></text>
@@ -4021,7 +4036,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1719"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.25949"
            x="238.38197 242.26697 246.15196"
            id="tspan1717">60%</tspan></text>
@@ -4031,7 +4046,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1723"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.25949"
            x="264.09079 267.9758 271.86081"
            id="tspan1721">50%</tspan></text>
@@ -4041,7 +4056,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1727"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.25949"
            x="279.90616 283.79117 287.67618"
            id="tspan1725">50%</tspan></text>
@@ -4051,7 +4066,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1731"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.25949"
            x="305.79727 309.68228 313.56729"
            id="tspan1729">60%</tspan></text>
@@ -4061,7 +4076,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1735"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.25949"
            x="321.61267 325.49768 329.38269"
            id="tspan1733">40%</tspan></text>
@@ -4071,7 +4086,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1739"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.53183"
            x="343.83035 347.71536 351.6004"
            id="tspan1737">70%</tspan></text>
@@ -4081,7 +4096,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1743"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.53183"
            x="359.64575 363.53076 367.41577"
            id="tspan1741">30%</tspan></text>
@@ -4091,7 +4106,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1747"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.53693"
            x="383.72461 387.60962 391.49463"
            id="tspan1745">80%</tspan></text>
@@ -4101,7 +4116,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1751"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.53693"
            x="399.54001 403.42502 407.31003"
            id="tspan1749">20%</tspan></text>
@@ -4111,7 +4126,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1755"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.53693"
            x="423.64093 427.52594 431.41095"
            id="tspan1753">90%</tspan></text>
@@ -4121,7 +4136,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1759"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.53693"
            x="439.45627 443.34128 447.22629"
            id="tspan1757">10%</tspan></text>
@@ -4131,7 +4146,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1763"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#2e8b57"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#2e8b57"><tspan
            y="326.53693"
            x="462.36728 466.25229 470.1373 474.0293"
            id="tspan1761">100%</tspan></text>
@@ -4141,7 +4156,7 @@
          font-size="6.9999997"
          font-weight="bold"
          id="text1767"
-         style="font-weight:bold;font-size:6.99999952px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
+         style="font-weight:bold;font-size:7px;font-family:DejaVuSans;fill:#cd5c5c"><tspan
            y="326.53693"
            x="482.76962 486.65466"
            id="tspan1765">0%</tspan></text>
@@ -5277,22 +5292,22 @@
          id="text2275"
          style="font-size:6px;font-family:DejaVuSans"><tspan
            y="584.95587"
-           x="166.00269 169.78868 173.33469 177.13869 180.82869 183.29469 184.9567 188.6467 192.4447 195.75671 199.44672 201.60672 206.22672 209.91672 213.03671 216.33072 218.81473 220.47673 224.28073 226.63274 228.29474 231.96074 235.75874 237.66074 240.00073 243.78673 248.40672 250.74672"
-           id="tspan2263">Experience-Description (ED) </tspan><tspan
+           x="166.00269"
+           id="tspan2263">  Experiential-Symbolic (ES) </tspan><tspan
            y="663.01459"
-           x="309.51819 313.3342 317.15021 319.05222 321.40421 323.88821 325.5502 329.2222 330.88419"
+           x="309.51819"
            id="tspan2265">56 trials</tspan><tspan
            y="663.59613"
-           x="72.386398 76.2024 80.018402 83.834404 85.736404 88.088402 90.572403 92.234406 95.906403 97.568405"
+           x="72.386398"
            id="tspan2267">120 trials</tspan><tspan
            y="663.01459"
-           x="196.40552 200.22151 204.03751 205.9395 208.2915 210.77551 212.43752 216.10951 217.77151"
+           x="196.40552"
            id="tspan2269">88 trials</tspan><tspan
            y="584.76764"
-           x="280.16418 283.9502 287.49619 291.30017 294.99017 297.45618 299.11816 302.80817 306.60617 309.91818 313.60818 315.76819 319.5542 323.10019 326.90417 330.59418 333.07819 334.74017 338.43018 342.22818 345.52219 349.21219 351.1142 353.45419 357.25821 361.04422 396.6062 400.12222 402.46823 406.13422 409.9382 413.6102 417.41418 419.07617 420.73816 423.09015 426.63614 428.53815 433.71014 437.38214 439.73413 443.02814 446.84415 448.50613 452.30414 456.10812 458.01013 460.35013 463.96814 469.15814"
-           id="tspan2271">Experience-Experience (EE)Probabilty Matching (PM)</tspan><tspan
+           x="280.16418"
+           id="tspan2271">Experiential-Experiential (EE)               Stated Probabilty (SP)</tspan><tspan
            y="662.43304"
-           x="423.39417 427.21017 429.11218 431.46417 433.93018 435.59216 439.26416 440.92615"
+           x="423.39417"
            id="tspan2273">8 trials</tspan></text>
       <text
          xml:space="preserve"
@@ -5418,15 +5433,6 @@
          id="path2323"
          inkscape:connector-curvature="0"
          style="fill:none;stroke:#000000;stroke-width:0.0655653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4" />
-      <text
-         xml:space="preserve"
-         transform="rotate(90)"
-         font-size="6"
-         id="text2327"
-         style="font-size:6px;font-family:DejaVuSans;fill:#262626"><tspan
-           y="-486.21637"
-           x="436.40912 440.2131 443.74109 449.56708 453.37106 456.99506 458.65704 460.55905 464.32703 466.66702 471.56903 473.20102 476.99902 479.70502 481.80502 484.52902 490.97903"
-           id="tspan2325">Symbol p(win) (%)</tspan></text>
       <path
          d="m 130.504,394.191 c 0,-1.511 -0.414,-2.996 -1.207,-4.285 -0.793,-1.289 -1.922,-2.336 -3.27,-3.027 -1.351,-0.684 -2.863,-0.981 -4.371,-0.863 -1.508,0.117 -2.953,0.648 -4.176,1.539 -1.226,0.89 -2.179,2.097 -2.757,3.496 -0.578,1.398 -0.758,2.929 -0.524,4.426 0.239,1.492 0.883,2.894 1.863,4.043 0.985,1.152 2.266,2.003 3.704,2.472 l 1.949,-6 c -0.328,-0.105 -0.625,-0.308 -0.852,-0.57 -0.23,-0.266 -0.375,-0.586 -0.429,-0.934 -0.055,-0.343 -0.012,-0.695 0.117,-1.019 0.137,-0.324 0.355,-0.602 0.637,-0.809 0.285,-0.203 0.617,-0.328 0.964,-0.351 0.348,-0.028 0.7,0.039 1.012,0.195 0.309,0.16 0.57,0.402 0.75,0.695 0.184,0.301 0.285,0.645 0.285,0.992 z m 0,0"
          id="path2329"
@@ -5560,10 +5566,21 @@
          xml:space="preserve"
          font-size="6.6"
          id="text2383"
-         style="font-size:6.5999999px;font-family:DejaVuSans;fill:#262626"><tspan
+         style="font-size:6.6px;font-family:DejaVuSans;fill:#262626"
+         x="-3.6514153"><tspan
            y="521.61823"
-           x="81.33094 84.888344 88.920944 91.508148 94.095352 98.15435 100.86695 104.76755 106.85975 111.04415 113.61815 119.03014 120.85835 125.03615 127.61015 129.70235 132.27635 138.56616"
-           id="tspan2381">Lottery p(win) (%)</tspan></text>
+           x="77.679527"
+           id="tspan2381">S-option p(win) (%)</tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="6.6"
+         id="text2383-0"
+         style="font-size:6.6px;font-family:DejaVuSans;fill:#262626;enable-background:new"
+         x="140.47708"
+         y="2.7179718e-05"><tspan
+           y="521.61823"
+           x="221.80803"
+           id="tspan2381-3">S-option p(win) (%)</tspan></text>
       <path
          d="M 60.707,499 V 422.062"
          id="path2385"
@@ -5627,10 +5644,11 @@
          transform="rotate(-90)"
          font-size="6.6"
          id="text2415"
-         style="font-size:6.5999999px;font-family:DejaVuSans;fill:#262626"><tspan
+         style="font-size:6.6px;font-family:DejaVuSans;fill:#262626"
+         x="-3.3264048"><tspan
            y="43.243389"
-           x="-496.53067 -492.55087 -489.97687 -486.35345 -482.15585 -478.12326 -474.09067 -470.65866 -466.59967 -464.50748 -461.07547 -457.17487 -450.74646 -446.56207 -442.52948 -440.70129 -438.12729 -436.0351 -433.46109 -427.1911"
-           id="tspan2413">P(choose symbol) (%)</tspan></text>
+           x="-499.85709"
+           id="tspan2413">P(choose E-option) (%)</tspan></text>
       <path
          d="m 67.688,460.531 h 87.285"
          id="path2417"
@@ -6053,14 +6071,6 @@
            y="513.36823"
            x="209.56552 225.14752 228.96352 242.60152 246.41751 260.05551 263.87152 277.50952 281.32553 293.08554 296.90155 300.71756"
            id="tspan2580">020406080100</tspan></text>
-      <text
-         xml:space="preserve"
-         font-size="6.6"
-         id="text2586"
-         style="font-size:6.5999999px;font-family:DejaVuSans;fill:#262626"><tspan
-           y="521.61823"
-           x="225.45787 229.01526 233.04785 235.63506 238.22226 242.28127 244.99387 248.89447 250.98666 255.17107 257.74506 263.15707 264.98526 269.16306 271.73706 273.82925 276.40326 282.69305"
-           id="tspan2584">Lottery p(win) (%)</tspan></text>
       <path
          d="M 204.832,499 V 422.062"
          id="path2588"
@@ -6649,10 +6659,21 @@
          xml:space="preserve"
          font-size="6.6"
          id="text2828"
-         style="font-size:6.5999999px;font-family:DejaVuSans;fill:#262626"><tspan
+         style="font-size:6.6px;font-family:DejaVuSans;fill:#262626"><tspan
            id="tspan2826"
            y="521.61823"
            x="369.96729">S-option pwin(%)</tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="6.6"
+         id="text2828-4"
+         style="font-size:6.6px;font-family:DejaVuSans;fill:#262626;enable-background:new"
+         x="67.345375"
+         y="-1006.7927"
+         transform="rotate(90)"><tspan
+           id="tspan2826-7"
+           y="-485.1745"
+           x="437.31265">S-option pwin(%)</tspan></text>
       <path
          d="M 348.969,498.992 V 422.055"
          id="path2830"
@@ -7010,6 +7031,38 @@
            y="495.93463"
            x="471.34805 475.16406"
            id="tspan2978">20</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,-0.75,0.75,0,-154.94962,118.63404)"
+         id="text3442"
+         style="font-size:12px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3444);fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+           x="-170.5918"
+           y="262.39914"
+           id="tspan32907"><tspan
+             style="-inkscape-font-specification:sans-serif;fill:#000000;stroke:none"
+             id="tspan32905">Experiential
+</tspan></tspan><tspan
+           x="-170.5918"
+           y="277.39914"
+           id="tspan32911"><tspan
+             style="-inkscape-font-specification:sans-serif;fill:#000000;stroke:none"
+             id="tspan32909">(E-options)</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,-0.75,0.75,0,-154.94962,208.40933)"
+         id="text3442-4"
+         style="font-size:12px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3444-4);fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"><tspan
+           x="-170.5918"
+           y="262.39914"
+           id="tspan32915"><tspan
+             style="-inkscape-font-specification:sans-serif;fill:#000000;stroke:none"
+             id="tspan32913">   Symbolic
+</tspan></tspan><tspan
+           x="-170.5918"
+           y="277.39914"
+           id="tspan32919"><tspan
+             style="-inkscape-font-specification:sans-serif;fill:#000000;stroke:none"
+             id="tspan32917"> (S-options)</tspan></tspan></text>
     </g>
   </g>
 </svg>

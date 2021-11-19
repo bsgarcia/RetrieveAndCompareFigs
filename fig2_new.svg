@@ -4714,8 +4714,8 @@
      showgrid="false"
      units="cm"
      inkscape:zoom="1.6929562"
-     inkscape:cx="357.18962"
-     inkscape:cy="600.8687"
+     inkscape:cx="220.74191"
+     inkscape:cy="340.9683"
      inkscape:window-x="56"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -4862,71 +4862,85 @@
        x="0.65438497"
        id="tspan2964-3-4-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal" /></text>
-  <path
-     d="m 309.98866,545.66451 h 11.043 v 6.953 h -11.043 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#e27c4f" />
-  <path
-     stroke-miterlimit="10"
-     d="m 309.98866,545.66451 h 11.043 v 6.953 h -11.043 z"
-     id="path4"
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:0.405727;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10" />
-  <text
-     xml:space="preserve"
-     font-size="6.00001px"
-     id="text8"
-     x="15.242666"
-     y="153.7505"
-     style="font-size:6.00001001px;font-family:Verdana;fill:#262626"><tspan
-       y="551.66345"
-       x="323.38449"
-       id="tspan6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Experiential-Symbolic (ES)</tspan></text>
-  <path
-     d="m 229.01966,545.59451 h 11.04299 v 6.949 h -11.04299 z"
-     id="path10"
-     inkscape:connector-curvature="0"
-     style="fill:#62a7d6" />
-  <path
-     stroke-miterlimit="10"
-     d="m 229.01966,545.59451 h 11.04299 v 6.949 h -11.04299 z"
-     id="path12"
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:0.405727;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10" />
-  <text
-     xml:space="preserve"
-     font-size="6.00001px"
-     id="text16"
-     x="15.242666"
-     y="153.7505"
-     style="font-size:6.00001001px;font-family:Verdana;fill:#262626"><tspan
-       y="551.59052"
-       x="242.41502 245.27101 248.52904 251.77504 253.86302 257.21701 258.68701 262.04102 265.40103 267.08102 270.44705 273.80106 277.04706 279.80106 283.37106 285.47708 288.20111 291.53711 295.3291"
-       id="tspan14">Learning phase (LE)</tspan></text>
-  <path
-     d="m 410.84067,545.69951 h 11.043 v 6.953 h -11.043 z"
-     id="path18"
-     inkscape:connector-curvature="0"
-     style="fill:#bb7799" />
-  <path
-     stroke-miterlimit="10"
-     d="m 410.84067,545.69951 h 11.043 v 6.953 h -11.043 z"
-     id="path20"
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:0.405727;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10" />
-  <text
-     xml:space="preserve"
-     font-size="6.00001px"
-     id="text24"
-     x="15.242666"
-     y="153.7505"
-     style="font-size:6.00001001px;font-family:Verdana;fill:#262626"><tspan
-       id="tspan22"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
-       y="551.40759"
-       x="423.64633">Stated Probability (SP)</tspan></text>
+  <g
+     id="g8983"
+     transform="translate(-1.0187151)">
+    <path
+       style="fill:#e27c4f"
+       inkscape:connector-curvature="0"
+       id="path2"
+       d="m 309.98866,545.66451 h 11.043 v 6.953 h -11.043 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.405727;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="m 309.98866,545.66451 h 11.043 v 6.953 h -11.043 z"
+       stroke-miterlimit="10" />
+    <text
+       style="font-size:6.00001001px;font-family:Verdana;fill:#262626"
+       y="153.7505"
+       x="15.242666"
+       id="text8"
+       font-size="6.00001px"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan6"
+         x="323.38449"
+         y="551.66345">Experiential-Symbolic (ES)</tspan></text>
+  </g>
+  <g
+     id="g8971"
+     transform="translate(9.0000076)">
+    <path
+       style="fill:#62a7d6"
+       inkscape:connector-curvature="0"
+       id="path10"
+       d="m 229.01966,545.59451 h 11.04299 v 6.949 h -11.04299 z" />
+    <g
+       id="g8964">
+      <path
+         stroke-miterlimit="10"
+         d="m 229.01966,545.59451 h 11.04299 v 6.949 h -11.04299 z"
+         id="path12"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:0.405727;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10" />
+      <text
+         xml:space="preserve"
+         font-size="6.00001px"
+         id="text16"
+         x="15.242666"
+         y="153.7505"
+         style="font-size:6.00001001px;font-family:Verdana;fill:#262626"><tspan
+           y="551.59052"
+           x="242.41502"
+           id="tspan14">Learning (LE)</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g8977">
+    <path
+       style="fill:#bb7799"
+       inkscape:connector-curvature="0"
+       id="path18"
+       d="m 410.84067,545.69951 h 11.043 v 6.953 h -11.043 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.405727;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path20"
+       d="m 410.84067,545.69951 h 11.043 v 6.953 h -11.043 z"
+       stroke-miterlimit="10" />
+    <text
+       style="font-size:6.00001001px;font-family:Verdana;fill:#262626"
+       y="153.7505"
+       x="15.242666"
+       id="text24"
+       font-size="6.00001px"
+       xml:space="preserve"><tspan
+         x="423.64633"
+         y="551.40759"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan22">Stated Probability (SP)</tspan></text>
+  </g>
   <text
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;fill:#262626"
      y="289.04092"
