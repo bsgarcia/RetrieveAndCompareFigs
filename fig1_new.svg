@@ -7,6 +7,9 @@
    id="svg2986"
    sodipodi:docname="fig1_new.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\Basile\MATLAB\RetrieveAndCompareFigs\text2257.png"
+   inkscape:export-xdpi="970.15002"
+   inkscape:export-ydpi="970.15002"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,7 +26,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,6 +43,15 @@
        width="147.9127"
        height="65.081596"
        id="rect3444-4" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12330">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g12326"
+         id="use12332" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -52,12 +63,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1009"
      id="namedview2988"
      showgrid="false"
-     inkscape:zoom="0.6745016"
-     inkscape:cx="-91.178435"
-     inkscape:cy="361.0073"
+     inkscape:zoom="1.3532472"
+     inkscape:cx="218.36365"
+     inkscape:cy="660.2637"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -4217,10 +4228,10 @@
          inkscape:connector-curvature="0"
          style="fill:#eeeeee" />
       <path
-         d="m 29.004,550.633 h 118.18 V 670.172 H 29.004 Z"
+         d="M 28.581884,550.633 H 147.0283 V 670.172 H 28.581884 Z"
          id="path1781"
          inkscape:connector-curvature="0"
-         style="fill:#eeeeee" />
+         style="fill:#eeeeee;stroke-width:1" />
       <path
          d="m 271.414,589.484 h 100.891 v 66.648 H 271.414 Z"
          id="path1783"
@@ -5278,10 +5289,12 @@
          xml:space="preserve"
          font-size="6"
          id="text2241"
-         style="font-size:6px;font-family:DejaVuSans"><tspan
+         style="font-size:7px;font-family:DejaVuSans"
+         x="-3.5075641"><tspan
            y="584.99725"
-           x="66.79155 70.025551 73.715553 77.38755 79.757553 83.55555 85.217552 89.015549 92.81955 94.72155 97.061554 100.40356 104.20756 106.54756 108.44956"
-           id="tspan2239">Learning (LE)  </tspan></text>
+           x="63.283981"
+           id="tspan2239"
+           style="font-size:7px">Learning (LE)  </tspan></text>
       <path
          transform="scale(1,-0.692102)"
          d="m 28.801,-982.594 h 460.35199 v -0.886 H 28.801 Z"
@@ -5323,43 +5336,29 @@
          font-size="6"
          font-weight="bold"
          id="text2257"
-         style="font-weight:bold;font-size:6px;font-family:DejaVuSans"><tspan
+         style="font-weight:bold;font-size:9px;font-family:DejaVuSans"><tspan
            y="551.82599"
-           x="35.980125 39.802124 43.870125 47.914124 50.872124 55.138123 57.208122 61.474121 65.764122 67.852119 72.14212 76.426125 80.470123 84.040123 88.108124 90.196121 92.938126 98.476128 100.52812 103.39613 107.68013 109.76813 112.37814 116.44614 120.51414 124.80413 129.09413 133.13812 136.70813 140.69814 158.90813 163.30014 167.42213 170.99213 173.86012 176.35013 178.42014 182.48813 186.53212 189.49013 193.77414 195.82614 200.09213 204.38214 206.47014 210.77814 215.04414 219.08813 222.65813 226.72614 228.81413 231.55612 237.09413 239.14613 242.03214 246.29814 250.42012 254.68613 257.57214 259.66013 262.27011 266.3381 270.4061 274.69611 278.98611 283.03012 286.60013 290.59012"
-           id="tspan2255">Learning phase (with feedback)Post-learning phase (without feedback)</tspan></text>
+           x="35.980125"
+           id="tspan2255"
+           style="font-size:9px">Learning phase               Post-learning phase (w/o feedback)</tspan></text>
       <text
          xml:space="preserve"
-         transform="scale(0.9812618,1.0190959)"
+         transform="scale(0.98126186,1.019096)"
          font-size="9"
          font-weight="bold"
          id="text2261"
-         style="font-weight:bold;font-size:9px;font-family:DejaVuSans"><tspan
-           y="531.94989"
-           x="29.514404 35.661404 41.4664 47.901402 54.003399 58.440399 61.518402 70.914398 77.016403 83.415405 87.717407 90.849403 96.204399 100.5064 104.97041 111.3694 116.6974 120.9994 127.4254 131.8624"
+         style="font-weight:bold;font-size:9px;font-family:DejaVuSans"
+         x="-1.2128917"><tspan
+           y="531.94983"
+           x="28.30151 34.448509 40.253506 46.688507 52.790504 57.227505 60.305508 69.7015 75.803505 82.202507 86.504509 89.636505 94.991501 99.293503 103.75751 110.1565 115.4845 119.7865 126.2125 130.64949"
            id="tspan2259">Experiment structure</tspan></text>
-      <text
-         xml:space="preserve"
-         font-size="6"
-         id="text2275"
-         style="font-size:6px;font-family:DejaVuSans"><tspan
-           y="584.95587"
-           x="166.00269"
-           id="tspan2263">  Experiential-Symbolic (ES) </tspan><tspan
-           y="663.01459"
-           x="309.51819"
-           id="tspan2265">56 trials</tspan><tspan
-           y="663.59613"
-           x="72.386398"
-           id="tspan2267">120 trials</tspan><tspan
-           y="663.01459"
-           x="196.40552"
-           id="tspan2269">88 trials</tspan><tspan
-           y="584.76764"
-           x="280.16418"
-           id="tspan2271">Experiential-Experiential (EE)               Stated Probabilty (SP)</tspan><tspan
-           y="662.43304"
-           x="423.39417"
-           id="tspan2273">8 trials</tspan></text>
+      <g
+         id="g12328"
+         clip-path="url(#clipPath12330)">
+        <g
+           inkscape:label="Clip"
+           id="g12326" />
+      </g>
       <text
          xml:space="preserve"
          font-size="10"
@@ -7093,32 +7092,109 @@
          id="text3442"
          style="font-size:12px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3444);fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
            x="-170.5918"
-           y="262.39914"
-           id="tspan4558"><tspan
+           y="262.06836"
+           id="tspan27700"><tspan
              style="-inkscape-font-specification:sans-serif;fill:#000000;stroke:none"
-             id="tspan4556">Experiential
+             id="tspan27698">Experiential
 </tspan></tspan><tspan
            x="-170.5918"
-           y="277.39914"
-           id="tspan4562"><tspan
+           y="277.06836"
+           id="tspan27704"><tspan
              style="-inkscape-font-specification:sans-serif;fill:#000000;stroke:none"
-             id="tspan4560">(E-options)</tspan></tspan></text>
+             id="tspan27702">(E-options)</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0,-0.75,0.75,0,-154.94962,374.90933)"
          id="text3442-4"
          style="font-size:12px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3444-4);fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"><tspan
            x="-170.5918"
-           y="262.39914"
-           id="tspan4566"><tspan
+           y="262.06836"
+           id="tspan27708"><tspan
              style="-inkscape-font-specification:sans-serif;fill:#000000;stroke:none"
-             id="tspan4564">   Symbolic
+             id="tspan27706">   Symbolic
 </tspan></tspan><tspan
            x="-170.5918"
-           y="277.39914"
-           id="tspan4570"><tspan
+           y="277.06836"
+           id="tspan27712"><tspan
              style="-inkscape-font-specification:sans-serif;fill:#000000;stroke:none"
-             id="tspan4568"> (S-options)</tspan></tspan></text>
+             id="tspan27710"> (S-options)</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="6"
+         id="text14306"
+         style="font-size:7px;font-family:DejaVuSans"
+         x="4.4169965"
+         y="79.5"><tspan
+           y="664.49725"
+           x="71.208542"
+           id="tspan14304"
+           style="font-size:7px">120 trials</tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="6"
+         id="text15924"
+         style="font-size:7px;font-family:DejaVuSans"
+         x="128.77177"
+         y="79.5"><tspan
+           y="664.49725"
+           x="195.56332"
+           id="tspan15922"
+           style="font-size:7px">88 trials</tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="6"
+         id="text16546"
+         style="font-size:7px;font-family:DejaVuSans"
+         x="240.6783"
+         y="79.5"><tspan
+           y="664.49725"
+           x="307.46985"
+           id="tspan16544"
+           style="font-size:7px">56 trials</tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="6"
+         id="text17222"
+         style="font-size:7px;font-family:DejaVuSans"
+         x="354.87558"
+         y="79.5"><tspan
+           y="664.49725"
+           x="421.66711"
+           id="tspan17220"
+           style="font-size:7px">8 trials</tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="6"
+         id="text17994"
+         style="font-size:7px;font-family:DejaVuSans;stroke-width:1"
+         x="96.398102"
+         transform="scale(1.0011265,0.99887476)"><tspan
+           y="585.65625"
+           x="163.26486"
+           id="tspan17992"
+           style="font-size:7px;stroke-width:1">Experiential-Symbolic (ES)</tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="6"
+         id="text23908"
+         style="font-size:7px;font-family:DejaVuSans;stroke-width:1"
+         x="203.25349"
+         transform="scale(1.0011265,0.99887476)"><tspan
+           y="585.65625"
+           x="270.12015"
+           id="tspan23906"
+           style="font-size:7px;stroke-width:1">Experiential-Experiential (EE)</tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="6"
+         id="text25334"
+         style="font-size:7px;font-family:DejaVuSans;stroke-width:1"
+         x="327.23636"
+         transform="scale(1.0011265,0.99887476)"><tspan
+           y="585.65625"
+           x="394.10355"
+           id="tspan25332"
+           style="font-size:7px;stroke-width:1">Stated Probability (SP)</tspan></text>
     </g>
   </g>
 </svg>
