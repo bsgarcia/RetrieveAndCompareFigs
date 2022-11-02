@@ -8,7 +8,7 @@
    viewBox="0 0 689.70377 570.15625"
    sodipodi:docname="fig_incentives_supp.svg"
    inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
-   inkscape:export-filename="/home/getz/MATLAB/RetrieveAndCompareFigs/fig_incentivize_2.png"
+   inkscape:export-filename="fig_incentives_supp-1.png"
    inkscape:export-xdpi="708.40479"
    inkscape:export-ydpi="708.40479"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -4228,7 +4228,7 @@
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="2504"
      inkscape:window-height="1341"
@@ -4236,9 +4236,9 @@
      showgrid="false"
      units="cm"
      inkscape:zoom="1.6482356"
-     inkscape:cx="271.50245"
+     inkscape:cx="232.06634"
      inkscape:cy="247.53743"
-     inkscape:window-x="26"
+     inkscape:window-x="2586"
      inkscape:window-y="53"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10"
@@ -4282,12 +4282,12 @@
    style="font-variant:normal;font-weight:normal;font-size:8.62201px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999901"
    id="text2330"
    x="46.149746"
-   y="310.02267"><tspan
+   y="307.02298"><tspan
      sodipodi:role="line"
      id="tspan2328"
      style="stroke-width:0.999901"
      x="46.149746"
-     y="310.02267">Exp. 9.a</tspan></text>
+     y="307.02298">Exp. 9.a</tspan></text>
 
 
 
@@ -4315,12 +4315,12 @@
    style="font-variant:normal;font-weight:normal;font-size:8.62204px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999901"
    id="text4484"
    x="127.51397"
-   y="309.96375"><tspan
+   y="306.96405"><tspan
      sodipodi:role="line"
      id="tspan4482"
      style="stroke-width:0.999901"
      x="127.51397"
-     y="309.96375">Exp. 9.b</tspan></text>
+     y="306.96405">Exp. 9.b</tspan></text>
 
 
 
@@ -4517,7 +4517,7 @@
 
 <g
    id="g12848-5"
-   transform="matrix(-1.0777514,0,0,-1.0777514,327.32695,654.34462)"
+   transform="matrix(-1.0777514,0,0,-1.0777514,327.32695,651.34462)"
    style="stroke-width:0.927858"><g
      id="g4164-0"
      transform="translate(2.4660631e-6)"
@@ -4536,7 +4536,7 @@
      id="path4174-2"
      inkscape:connector-curvature="0" /></g><g
    id="g12848-5-1"
-   transform="matrix(-1.0777514,0,0,-1.0777514,408.64948,654.26276)"
+   transform="matrix(-1.0777514,0,0,-1.0777514,408.64948,651.26276)"
    style="stroke-width:0.927858"><g
      id="g4164-0-4"
      transform="translate(2.4660631e-6)"
@@ -10281,7 +10281,7 @@
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:SansSerif;-inkscape-font-specification:'SansSerif Bold';stroke-width:0.75"
      id="tspan25312">***</tspan></text><g
    id="g52965"
-   transform="translate(-1.72278,10.736029)"><g
+   transform="translate(-1.72278,7.736029)"><g
      id="g610"
      transform="matrix(1.0777514,0,0,0.94347776,8.2981087,-71.468396)"
      style="stroke-width:0.991685"><g
